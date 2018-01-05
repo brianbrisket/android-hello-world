@@ -2,4 +2,5 @@
   <string name="app_name">Hello World</string>
   <string name="hello_world">Hello world!</string>
   <string name="say_bye">Say bye!</string>
+  <string name="bye">Goodbye!</string>
 </resources>
